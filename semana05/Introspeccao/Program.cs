@@ -5,8 +5,9 @@ class Program
     static void Main(string[] args)
     {
         // Criatividade:
-        // As perguntas e reflexões usadas são removidas das listas,
-        // evitando que sejam repetidas até que todas sejam utilizadas.
+        // Durante cada execução das atividades de reflexão e listagem,
+        // as perguntas utilizadas são removidas das listas,
+        // evitando repetições enquanto houver outras opções disponíveis.
 
         int opcao = 0;
 
